@@ -8,20 +8,16 @@ notification: ""
 sections:
   - hero:
       title: ArtsEverywhere@CDC
-      subtitle: Hero subtitle
       background: /images/download.png
       button: Contact Us
       url: https://www.cdc.gov.sg/contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Programme Lineup
+          description: Find out more here...
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Featured artists
+          description: Find out more here...
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
