@@ -19,12 +19,12 @@ sections:
           description: Find out more here...
           url: https://gmail.com
   - infobar:
-      title: About ArtsEverywhere@CDC
-      subtitle: What we do
+      title: ArtsEverywhere@CDC
+      subtitle: What is it
       description: ArtsEverywhere@CDC brings arts experiences to communities where
         they live, work and play...
       button: Find out more
-      url: /faq/
+      url: /about/aecdc/
   - infopic:
       title: The Five Districts
       subtitle: our cdcs
