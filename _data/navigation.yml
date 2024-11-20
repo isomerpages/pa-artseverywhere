@@ -2,11 +2,13 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
+  - title: About AE@CDC
     url: /example-page/
   - title: Programme Line Up
     collection: programme-line-up
-  - title: About AE@CDC
+  - title: Featured artists
     url: /about/
-  - title: Programme lIne-up
+  - title: Newsroom
     collection: programme-line-up
+  - title: CDC OFFICIAL SITE
+    url: /permalink
