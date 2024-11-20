@@ -28,13 +28,6 @@ sections:
       url: /about/aecdc/
       image: /images/download.png
       alt: Image alt text
-  - infobar:
-      title: ArtsEverywhere@CDC
-      subtitle: What is it
-      description: ArtsEverywhere@CDC brings arts experiences to communities where
-        they live, work and play...
-      button: Find out more
-      url: /about/aecdc/
   - infopic:
       title: The Five Districts
       subtitle: our cdcs
