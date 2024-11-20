@@ -9,8 +9,8 @@ sections:
   - hero:
       title: ArtsEverywhere@CDC
       background: /images/download.png
-      button: Contact Us
-      url: https://www.cdc.gov.sg/contact-us/
+      button: Find out more
+      url: /about/aecdc/
       key_highlights:
         - title: Other flagship programmes
           description: Find out more here...
