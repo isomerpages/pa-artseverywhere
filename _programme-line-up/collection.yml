@@ -2,6 +2,7 @@ collections:
   programme-line-up:
     output: true
     order:
+      - SECDC.md
       - NWCDC.md
       - CSCDC.md
       - NECDC.md
