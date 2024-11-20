@@ -19,9 +19,10 @@ sections:
           description: Find out more here...
           url: https://gmail.com
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: About ArtsEverywhere@CDC
+      subtitle: What we do
+      description: ArtsEverywhere@CDC brings arts experiences to communities where
+        they live, work and play...
+      button: Find out more
       url: /faq/
 ---
