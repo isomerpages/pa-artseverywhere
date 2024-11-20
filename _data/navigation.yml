@@ -9,6 +9,13 @@ links:
   - title: Featured artists
     url: /about/
   - title: Newsroom
-    collection: programme-line-up
+    url: /permalink
+    sublinks:
+      - title: News
+        url: /permalink
+      - title: Media Releases & Speeches
+        url: /permalink
+      - title: Gallery
+        url: /permalink
   - title: CDC OFFICIAL SITE
     url: /permalink
