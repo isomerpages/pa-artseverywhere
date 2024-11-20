@@ -9,7 +9,7 @@ sections:
   - hero:
       title: ArtsEverywhere@CDC
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/download.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
