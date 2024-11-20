@@ -18,6 +18,16 @@ sections:
         - title: our cdcs
           description: Find out more here...
           url: https://gmail.com
+  - infopic:
+      title: ArtsEverywhere@CDC
+      subtitle: About the programme
+      id: infopic
+      description: ArtsEverywhere@CDC brings arts experiences to communities where
+        they live, work and play.
+      button: FIND OUT MORE
+      url: /about/aecdc/
+      image: /images/download.png
+      alt: Image alt text
   - infobar:
       title: ArtsEverywhere@CDC
       subtitle: What is it
@@ -33,15 +43,5 @@ sections:
         community and corporate partners to support the unique needs of each
         district.
       image: /images/download__1_.png
-      alt: Image alt text
-  - infopic:
-      title: ArtsEverywhere@CDC
-      subtitle: About the programme
-      id: infopic
-      description: ArtsEverywhere@CDC brings arts experiences to communities where
-        they live, work and play.
-      button: FIND OUT MORE
-      url: /about/aecdc/
-      image: /images/download.png
       alt: Image alt text
 ---
