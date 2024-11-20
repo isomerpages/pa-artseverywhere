@@ -12,10 +12,10 @@ sections:
       button: Contact Us
       url: https://www.cdc.gov.sg/contact-us/
       key_highlights:
-        - title: Programme Lineup
+        - title: Other flagship programmes
           description: Find out more here...
           url: https://google.com
-        - title: Featured artists
+        - title: our cdcs
           description: Find out more here...
           url: https://gmail.com
   - infobar:
@@ -25,4 +25,13 @@ sections:
         they live, work and play...
       button: Find out more
       url: /faq/
+  - infopic:
+      title: The Five Districts
+      subtitle: our cdcs
+      id: infopic
+      description: The CDCs work closely with grassroots, government, school,
+        community and corporate partners to support the unique needs of each
+        district.
+      image: /images/download__1_.png
+      alt: Image alt text
 ---
