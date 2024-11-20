@@ -2,4 +2,4 @@ collections:
   programme-line-up:
     output: true
     order:
-      - folder-page.md
+      - CSCDC.md
