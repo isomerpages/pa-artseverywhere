@@ -36,6 +36,20 @@ chamber ensemble, renowned for its innovative spirit and commitment to
 excellence in the realm of Chinese chamber music.</div>
 <div class="isomer-card-link">Find out more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Music in the heART_lands!" src="/images/Philharmonic.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PHILHARMONIC WIND ORCHESTRA ENSEMBLE</div><div class="isomer-card-description">Philharmonic Wind Orchestra (PWO) is recognised as one of the premier wind orchestras in Singapore, founded in 2000, and has won international accolades for its performances overseas.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Music in the heART_lands!" src="/images/Philharmonic.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PHILHARMONIC WIND ORCHESTRA ENSEMBLE</div><div class="isomer-card-description">Philharmonic Wind Orchestra (PWO) is recognised as one of the premier wind orchestras in Singapore, founded in 2000, and has won international accolades for its performances overseas.</div><div class="isomer-card-link">Find out more....</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kito dan Kita" src="/images/Nadi.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NADI SINGAPURA LTD</div>
+<div class="isomer-card-description">Formed in November 2011, the NADI Singapura Ltd ensemble is made up of
+young and aspiring musos who believe in uplifting their traditional drums
+and percussions like no other.</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upcoming programmes" src="/images/WB_WB_1920x720_4_SECDC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">South East CDC</div><div class="isomer-card-description">Upcoming ArtsEverywhere@CDC programmes at South East CDC.</div><div class="isomer-card-link">Find out more...</div></div></a>
 </div>
 <p></p>
