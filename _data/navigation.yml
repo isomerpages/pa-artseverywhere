@@ -7,7 +7,7 @@ links:
   - title: Programme Line Up
     collection: programme-line-up
   - title: Featured artists
-    url: /about/
+    url: /featuredartists/
   - title: Newsroom
     url: /permalink
     sublinks:
