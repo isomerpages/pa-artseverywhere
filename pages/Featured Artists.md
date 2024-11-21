@@ -10,23 +10,23 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BRAHMASTRA_ENSEMBLE.jpg">
 </div>
-<p>My Identity: Beyond Artistry is a dance musical inspired by the journey
-of five creative professionals from various fields including film, music,
-and dance. Come experience their stories and how creativity is woven into
-the fabric of their existence. Featuring compositions by multi-award-winning
-composer and accomplished flautist Niranjan Pandian, and choreography by
-various dance collectives and institutions.</p>
+<p><strong>My Identity: Beyond Artistry</strong> is a dance musical inspired
+by the journey of five creative professionals from various fields including
+film, music, and dance. Come experience their stories and how creativity
+is woven into the fabric of their existence. Featuring compositions by
+multi-award-winning composer and accomplished flautist Niranjan Pandian,
+and choreography by various dance collectives and institutions.</p>
 <p></p>
-<p>About Brahmastra Brahmastra Ensemble is an Indian fusion collective led
-by Indian classical flautist, Niranjan Pandian, which harmonises Indian
-folk, fusion, and traditional melodies into a singular tapestry of sound.
-The ensemble has been featured in local and international festivals as
-their original compositions and arrangements bring different communities
+<p><strong>About Brahmastra</strong> Brahmastra Ensemble is an Indian fusion
+collective led by Indian classical flautist, Niranjan Pandian, which harmonises
+Indian folk, fusion, and traditional melodies into a singular tapestry
+of sound. The ensemble has been featured in local and international festivals
+as their original compositions and arrangements bring different communities
 together.</p>
 <p></p>
 <p>(Image Credit: Birabu Photography)</p>
 <hr>
-<p>Fringe Activities
+<p><strong>Fringe Activities </strong>
 <br>Presented by Brahmastra, Damaru Singapore, and Manimaran Creations</p>
 <p></p>
 <p></p>
@@ -42,7 +42,7 @@ feature in Indian art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ding_Yi_Music.jpg">
 </div>
-<p>Evergreen Classics Presented by Ding Yi Music Company Ltd.
+<p><strong>Evergreen Classics Presented by Ding Yi Music Company Ltd. </strong>
 <br>Join us for an enchanting hour of evergreen classics with your family,
 featuring music from the legendary Teresa Teng and Fei Yu-ching. Experience
 the magic of songs that have transcended decades, including an ABBA Medley
@@ -50,7 +50,7 @@ and lively Malay and Indian folk songs. This eclectic mix of tunes offers
 a unique opportunity to bond with loved ones as you sing along to these
 beloved melodies.</p>
 <p></p>
-<p>About Ding Yi Music Company Ltd
+<p><strong>About Ding Yi Music Company Ltd </strong>
 <br>Founded in 2007, Ding Yi Music Company Ltd is Singapore's leading Chinese
 chamber ensemble, renowned for its innovative spirit and commitment to
 excellence in the realm of Chinese chamber music. The ensemble is a National
@@ -59,7 +59,7 @@ of the prestigious Singapore Chinese Cultural Contribution Award in 2019.
 Ding Yi has represented Singapore at numerous prestigious international
 festivals and performances. (image credit: Ding Yi Music Company Ltd)</p>
 <hr>
-<p>Fringe Activities
+<p><strong>Fringe Activities </strong>
 <br>Presented by Didier Ng and Cherie Ng
 <br>
 <br>Make Your Own Chinese Spinning Rattle Drum Let's drum up some wild and
