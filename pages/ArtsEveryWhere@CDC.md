@@ -22,32 +22,28 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p>View the calendar of events below or head over to <strong><a href="https://www.catch.sg/Home/Event/2024/July/ArtsEverywhere%20CDC#event-events" rel="noopener noreferrer nofollow" target="_blank"><u>Catch.sg</u></a></strong>,
 the official arts and culture media partner, to discover ArtsEverywhere@CDC
 programmes in your heartlands.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="My Identity: Beyond Artistry" src="/images/BRAHMASTRA_ENSEMBLE.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">BRAHMASTRA ENSEMBLE</div><div class="isomer-card-description">Brahmastra Ensemble is an Indian fusion collective led by Indian classical flautist, Niranjan Pandian, which harmonises Indian folk, fusion, and traditional melodies into a singular tapestry of sound.</div><div class="isomer-card-link">Find out more...</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upcoming Programmes" src="/images/WB_WB_1920x720_5_CSCDC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Central Singapore CDC</div><div class="isomer-card-description">Upcoming ArtsEvewhere@CDC Programmes at Central Singapore CDC.</div><div class="isomer-card-link">Find out more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Evergreen Classics" src="/images/Ding_Yi_Music.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Upcoming Programmes" src="/images/WB_WB_1920x720_3_NWCDC.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">DING YI MUSIC COMPANY LTD</div>
-<div class="isomer-card-description">Founded in 2007, Ding Yi Music Company Ltd is Singapore's leading Chinese
-chamber ensemble, renowned for its innovative spirit and commitment to
-excellence in the realm of Chinese chamber music.</div>
+<div class="isomer-card-title">North West CDC</div>
+<div class="isomer-card-description">Upcoming ArtsEvewhere@CDC Programmes at North West CDC.</div>
 <div class="isomer-card-link">Find out more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Music in the heART_lands!" src="/images/Philharmonic.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PHILHARMONIC WIND ORCHESTRA ENSEMBLE</div><div class="isomer-card-description">Philharmonic Wind Orchestra (PWO) is recognised as one of the premier wind orchestras in Singapore, founded in 2000, and has won international accolades for its performances overseas.</div><div class="isomer-card-link">Find out more....</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upcoming Programmes" src="/images/WB_WB_1920x720_1_NECDC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">North East CDC</div><div class="isomer-card-description">Upcoming ArtsEvewhere@CDC Programmes at North East CDC.</div><div class="isomer-card-link">Find out more....</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kito dan Kita" src="/images/Nadi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Upcoming Programmes" src="/images/WB_WB_1920x720_2_SWCDC.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NADI SINGAPURA LTD</div>
-<div class="isomer-card-description">Formed in November 2011, the NADI Singapura Ltd ensemble is made up of
-young and aspiring musos who believe in uplifting their traditional drums
-and percussions like no other.</div>
+<div class="isomer-card-title">South West CDC</div>
+<div class="isomer-card-description">Upcoming ArtsEvewhere@CDC Programmes at South West CDC.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upcoming programmes" src="/images/WB_WB_1920x720_4_SECDC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">South East CDC</div><div class="isomer-card-description">Upcoming ArtsEverywhere@CDC programmes at South East CDC.</div><div class="isomer-card-link">Find out more...</div></div></a>
