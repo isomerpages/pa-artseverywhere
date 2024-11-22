@@ -6,19 +6,19 @@ description: ""
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>november</summary>
+<summary>December</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>12 november</p>
-<p>brahmastra</p>
-<p></p>
-<p></p>
-<p></p>
-<p>13 november</p>
+<p><strong>Saturday, 14 December</strong>
+<br>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
+Ensembles
+<br>Venue: Town Square@Potong Pasir
+<br>Time: Fringe Activities (12pm - 1pm; 2pm - 3pm), Performance (1pm - 2pm;
+3pm - 4pm)</p>
 <p>kito dan ktita</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>january</summary>
+<summary>January</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
