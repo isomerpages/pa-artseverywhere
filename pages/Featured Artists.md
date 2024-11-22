@@ -119,5 +119,94 @@ percussion instrument samba session! Make your own percussion instruments
 out of recycled materials such as shakers! Explore the various sounds you
 can produce with your hand-made instruments by being a one-day percussionist
 in a drum circle!</p>
+<hr>
+<h3><strong>NADI SINGAPURA LTD.</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nadi.jpg">
+</div>
+<p><strong>Kito dan Kita</strong> Presented by NADI Singapura Ltd
+<br>Be captivated by <em>Kito dan Kita</em>, a Malay drumming and music performance
+inspired by the customs and traditions of the Malay community in Singapore
+and the Nusantara. This dynamic performance will feature the Rebana, Gendang,
+Jidur, Marwas and Talempong, among other instruments, while incorporating
+dancing and singing.</p>
+<p><strong>About NADI Singapura Ltd</strong>
+<br>Formed in November 2011, the NADI Singapura Ltd ensemble is made up of
+young and aspiring musos who believe in uplifting their traditional drums
+and percussions like no other. The ensemble is led by two renowned individuals
+in the Singapore Malay Arts scene, Rebana artisan, Yaziz Hassan and prominent
+drummer/percussionist, Riduan Zalani. Both founders aim to position NADI
+Singapura Ltd as a dynamic ensemble which adopts an innovative approach
+in the use of the Malay Archipelago drums. NADI Singapura Ltd is a recipient
+of the National Arts Council’s Major Grant for the period from 1 April
+2022 to 31March 2025. They have received admirable reviews and participated
+in various local and international cultural showcases. (Image Credit: NADI
+Singapura Ltd)</p>
+<hr>
+<p><strong>Fringe Activities</strong>  <em>Presented by NADI Singapura Ltd</em>
+</p>
+<p><strong>Paper Tanjak Workshop</strong> Come join us and make your own paper
+tanjak (Malay headgear) in this workshop. (Image Credit: Riduan Zalani)</p>
+<p><strong>Drum Circle</strong> Try your hand at drumming with NADI Singapura
+in this fun and energetic drumming workshop. (Image Credit: NADI Singapura
+Ltd)</p>
+<p></p>
+<p><em>Presented by Didier Ng and Cherie Ng</em>
+</p>
 <p></p>
 <p></p>
+<p></p>
+<p><strong>Echoes of the Forest (Art Installation)</strong> Close your eyes
+and let your imagination run wild as you find yourself whisked away to
+the lush rainforests of Singapore. Amidst the symphony of rustling leaves
+and chirping birds, there's an unexpected twist – the distant beat of drums!
+But not just any drums, these are the heart-pounding rhythms of traditional
+Malay drums! Let’s dance to the beat of nature's drumline, where the graceful
+mousedeer prances alongside the pulsating cadence of the drums. It's a
+celebration of Singapore's rich tapestry of arts, culture, and biodiversity,
+all wrapped up in the playful embrace of cardboard creativity.</p>
+<p><strong>Make Your Own Spinning Rattle Drum </strong>Let's drum up some
+wild and wacky fun by creating your own spinning rattle drum with Didier
+Ng and Cherie Ng, and get ready to march to the rhythm with Nadi Singapura!</p>
+<p><strong>'Otter-ly’ Fun! Eco Workshop</strong> Join eco-artists Didier Ng
+and Cherie Ng as they show you how to create an otter shaped handphone
+and stationery holder out of recycled materials.</p>
+<p><strong>About Didier Ng and Cherie Ng</strong> Didier Ng is an artist who
+embraces nature and rubbish. With a passion for transforming waste into
+wonders, Didier's creations breathe new life into discarded materials,
+adding a unique twist to conventional art. Her work not only captivates
+the imagination but also prompts us to see beauty in the unexpected. Cherie
+Ng, an artist with a passion for upcycling, finds her voice in the quiet
+transformation of discarded materials. Outgoing and fun-loving by nature,
+Cherie nonetheless prefers working diligently to basking in the limelight.
+With a meticulous and measured approach to creative art, Cherie’s work
+reflects her deep dedication to the craft of upcycling and renewal.</p>
+<hr>
+<h3><strong>yIN HARMONY</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yin_Harmony.jpg">
+</div>
+<p><strong>Melodic Flowers </strong>Presented by yIN Harmony Inspired by
+flowers, this multi-cultural programme features songs from different cultures
+which are demonstrated by varied musical styles and instruments. Prepare
+to engage your senses in this unique experience and be mesmerised by familiar
+songs like Bunga Sayang, Rose Rose I Love You and folk music from around
+the world.</p>
+<p></p>
+<p><strong>A Bird’s Journey</strong> Presented by yIN Harmony Follow the story
+of a baby bird's journey of self-discovery, inspired by, The Ugly Duckling.
+Accompanied by live traditional musica and voice-over narrations, the performance
+brings in elements of culture that are unique to Singapore. Audiences also
+have an opportunity to play on the bird flutes and be part of the interactive
+performance.</p>
+<p><strong>About yIN Harmony</strong> yIN Harmony is a multi-ethnic music
+group that infuses various cultural instruments together on a singular
+platform to reflect the multiracial facets of Singapore.</p>
+<hr>
+<p><strong>Fringe Activities</strong> Presented by yIN Harmony</p>
+<p><strong>(AUGUST)</strong>  <strong>Flower Origami Workshop</strong> Join
+yIN Harmony in this flower origami workshop and learn to make your own
+bouquet of paper flowers.</p>
+<p><strong>(SEPTEMBER - DECEMBER)</strong>  <strong>Bird Flute Workshop</strong> Come
+learn how to play the bird flute in this workshop by yIN Harmony and then
+use your new found skills in the interactive segment of the performance.</p>
