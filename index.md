@@ -18,6 +18,9 @@ sections:
         - title: our cdcs
           description: Find out more here...
           url: https://gmail.com
+        - title: AE@CDC Programme Calender
+          description: Find out more here...
+          url: ""
   - infopic:
       title: AE@CDC
       subtitle: About the programme
