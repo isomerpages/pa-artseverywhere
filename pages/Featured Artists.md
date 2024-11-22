@@ -37,8 +37,7 @@ performing the karakattam in this music and dance workshop.</p>
 props and puppets at the photo booth and learn more about how these elements
 feature in Indian art.</p>
 <hr>
-<h3><strong>DING YI MUSIC COMPANY LTD.</strong></h3>
-<p></p>
+<h3><strong>DING YI MUSIC COMPANY LTD</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ding_Yi_Music.jpg">
 </div>
@@ -87,4 +86,24 @@ materials. Outgoing and fun-loving by nature, Cherie nonetheless prefers
 working diligently to basking in the limelight. With a meticulous and measured
 approach to creative art, Cherie’s work reflects her deep dedication to
 the craft of upcycling and renewal.</p>
+<hr>
+<h3><strong>PHILHARMONIC WIND ORCHESTRA ENSEMBLE</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Philharmonic.jpg">
+</div>
+<hr>
+<p><strong>Fringe Activities</strong>
+<br>Presented by Philharmonic Wind Orchestra Ensemble
+<br>
+<br><strong>Make It and Play It! Percussion Workshop (Buckets &amp; Pails)</strong> Roll
+up your sleeves and get active with our musicians as you make and personalise
+your own percussion instruments and join in the samba percussion drum circle!
+Guided by our percussion instructors, experience the fun rhythmic patterns
+and be introduced to more percussion instruments too.</p>
+<p><strong>Make It and Play It! Percussion Workshop (Shakers)</strong> Come
+join the percussionists of the Philharmonic Wind Orchestra in a home-made
+percussion instrument samba session! Make your own percussion instruments
+out of recycled materials such as shakers! Explore the various sounds you
+can produce with your hand-made instruments by being a one-day percussionist
+in a drum circle!</p>
 <p></p>
