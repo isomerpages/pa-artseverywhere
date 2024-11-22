@@ -14,7 +14,6 @@ Ensembles
 <br>Venue: Town Square@Potong Pasir
 <br>Time: Fringe Activities (12pm - 1pm; 2pm - 3pm), Performance (1pm - 2pm;
 3pm - 4pm)</p>
-<p>kito dan ktita</p>
 </div>
 </details>
 <details class="isomer-details">
