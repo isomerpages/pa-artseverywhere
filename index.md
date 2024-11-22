@@ -19,7 +19,7 @@ sections:
           description: Find out more here...
           url: https://gmail.com
   - infopic:
-      title: ArtsEverywhere@CDC
+      title: AE@CDC
       subtitle: About the programme
       id: infopic
       description: ArtsEverywhere@CDC brings arts experiences to communities where
