@@ -26,7 +26,7 @@ sections:
         they live, work and play.
       button: FIND OUT MORE
       url: /about/aecdc/
-      image: /images/download.png
+      image: /images/ArtsEverywhere.png
       alt: Image alt text
   - infopic:
       title: The Five Districts
