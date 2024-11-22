@@ -91,6 +91,19 @@ the craft of upcycling and renewal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Philharmonic.jpg">
 </div>
+<p><strong>Music in the heART_lands! </strong>Presented by Philharmonic Wind
+Orchestra Ensemble Join the ensemble from the Philharmonic Wind Orchestra
+(PWO) for an exciting performance as the musicians enthral you with a delectable
+spread of songs from English and Mandarin pop songs, evergreens, festive
+favourites, to songs that reflect our multicultural heritage!
+<br>
+<br><strong>About Philharmonic Wind Orchestra Ensemble</strong> Philharmonic
+Wind Orchestra (PWO) is recognised as one of the premier wind orchestras
+in Singapore, founded in 2000, and has won international accolades for
+its performances overseas. The group also strongly supports Singaporean
+composers by performing and premiering their works. Its long-standing artistic
+mission is to advance wind music in Singapore and aims to bring music to
+anywhere it believes it can make a difference.</p>
 <hr>
 <p><strong>Fringe Activities</strong>
 <br>Presented by Philharmonic Wind Orchestra Ensemble
@@ -106,4 +119,5 @@ percussion instrument samba session! Make your own percussion instruments
 out of recycled materials such as shakers! Explore the various sounds you
 can produce with your hand-made instruments by being a one-day percussionist
 in a drum circle!</p>
+<p></p>
 <p></p>
