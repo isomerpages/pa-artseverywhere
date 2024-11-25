@@ -2,5 +2,5 @@ collections:
   get-in-touch:
     output: true
     order:
-      - Feedback Form.md
       - Getting to a CDC.md
+      - Feedback Form.md
