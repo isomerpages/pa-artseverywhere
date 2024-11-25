@@ -13,9 +13,11 @@ links:
     sublinks:
       - title: News
         url: /permalink
-      - title: Media Releases & Speeches
+      - title: Media Releases
         url: /permalink
       - title: Gallery
+        url: /permalink
+      - title: Speeches
         url: /permalink
   - title: CDC OFFICIAL SITE
     url: /permalink
