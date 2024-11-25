@@ -38,24 +38,42 @@ locations:
       - The JTC Summit
       - "8 Jurong Town Hall Road #26-06"
       - Singapore 609434
-    title: Southwest CDC
     operating_hours:
       - days: Mon - Fri
         time: 9.00am - 5.00pm
         description: Closed on weekends and Public Holidays
     maps_link: https://maps.google.com/maps?q=The+JTC+Summit++8+Jurong+Town+Hall+Road+#26-06+Singapore+609434
+    title: Southwest CDC
   - address:
       - Wisma Geylang Serai
       - "1 Engku Aman Turn, #03-02"
       - Singapore 408528
-    title: Southeast CDC
-    operating_hours: []
+    operating_hours:
+      - days: Mon - Fri
+        time: 8.30am - 5.00pm
+        description: Closed on weekends and Public Holidays
     maps_link: https://maps.google.com/maps?q=Wisma+Geylang+Serai++1+Engku+Aman+Turn+#03-02++Singapore+408528
+    title: Southeast CDC
 contacts:
   - content:
       - phone: +65 6248 5566
       - email: northwest_cdc@pa.gov.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: Northwest CDC
+  - content:
+      - phone: +65 6424 4000
+      - email: northeast_cdc@pa.gov.sg
+      - other: ""
+    title: Northeast CDC
+  - content:
+      - phone: +65 6316 1616
+      - email: southwest_cdc@pa.gov.sg
+      - other: ""
+    title: Southwest CDC
+  - content:
+      - phone: +65 6432 1300
+      - email: southeast_cdc@pa.gov.sg
+      - other: ""
+    title: Southeast CDC
 feedback: ""
 ---
