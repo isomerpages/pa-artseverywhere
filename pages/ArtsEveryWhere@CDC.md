@@ -34,7 +34,7 @@ programmes in your heartlands.</p>
 <div class="isomer-card-description">Upcoming ArtsEvewhere@CDC Programmes at North West CDC.</div>
 <div class="isomer-card-link">View Calendar...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upcoming Programmes" src="/images/WB_WB_1920x720_1_NECDC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">North East CDC</div><div class="isomer-card-description">Upcoming ArtsEvewhere@CDC Programmes at North East CDC.</div><div class="isomer-card-link">View Calendar...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/programmes/necdc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upcoming Programmes" src="/images/WB_WB_1920x720_1_NECDC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">North East CDC</div><div class="isomer-card-description">Upcoming ArtsEvewhere@CDC Programmes at North East CDC.</div><div class="isomer-card-link">View Calendar...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
