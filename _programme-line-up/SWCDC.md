@@ -48,3 +48,8 @@ ties are warm and resilient.</p>
 <p>a) Aggregator of Needs and Resources
 <br>b) Builder of Capability / Capacity in Partners
 <br>c) Connector of Communities</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/South_West_CDC_Logo.png">
+</div>
+<p></p>
