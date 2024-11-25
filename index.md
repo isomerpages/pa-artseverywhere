@@ -33,7 +33,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: The Five Districts
-      subtitle: our cdcs
+      subtitle: our CDCS
       id: infopic
       description: The CDCs work closely with grassroots, government, school,
         community and corporate partners to support the unique needs of each
