@@ -2,7 +2,7 @@ collections:
   newsroom:
     output: true
     order:
-      - Speeches.md
       - News.md
       - Media Releases.md
+      - Speeches.md
       - Gallery.md
