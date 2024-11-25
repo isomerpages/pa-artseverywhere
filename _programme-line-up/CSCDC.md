@@ -51,5 +51,4 @@ building.</p>
 </div>
 <p></p>
 <p></p>
-<hr>
 <p></p>
