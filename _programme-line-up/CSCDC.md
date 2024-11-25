@@ -25,10 +25,6 @@ Ensembles
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/cscdc.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WB_WB_1920x720_5_CSCDC.jpg">
 </div>
 <p>Central Singapore Community Development Council (CDC)’s mission is to
@@ -50,6 +46,9 @@ voluntary welfare organisations and the grassroots, the CDC aggregates
 and connects various needs/resources for a more holistic approach to community
 building.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/cscdc.png">
+</div>
 <p></p>
 <p></p>
 <hr>
