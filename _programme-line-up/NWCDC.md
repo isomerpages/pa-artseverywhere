@@ -59,6 +59,6 @@ of society</p>
 our future generations</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/North_West_CDC_logo.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/North_West_CDC_logo.png">
 </div>
 <p></p>
