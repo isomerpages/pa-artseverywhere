@@ -56,6 +56,11 @@ locations:
     title: Southeast CDC
 contacts:
   - content:
+      - phone: +65 6715 7500
+      - email: PA_CentralSingapore@pa.gov.sg
+      - other: ""
+    title: Central CDC
+  - content:
       - phone: +65 6248 5566
       - email: northwest_cdc@pa.gov.sg
       - other: ""
