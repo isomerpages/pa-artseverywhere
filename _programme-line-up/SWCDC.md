@@ -50,6 +50,6 @@ ties are warm and resilient.</p>
 <br>c) Connector of Communities</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/South_West_CDC_Logo.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/South_West_CDC_Logo.png">
 </div>
 <p></p>
