@@ -8,7 +8,11 @@ description: ""
 <details class="isomer-details">
 <summary>December</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Saturday, 7 December</strong>
+<br>Programme: <em>Kito dan Kita</em> by NADI Singapura
+<br>Venue: Kampung Admiralty
+<br>Time: Fringe Activities (4.30pm - 5.30pm; 6.30pm - 7.30pm), Performance
+(5.30pm - 6.30pm; 7.30pm - 8.30pm)</p>
 </div>
 </details>
 <details class="isomer-details">
