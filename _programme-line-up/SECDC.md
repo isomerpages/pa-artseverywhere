@@ -68,6 +68,6 @@ opportunities for residents and stakeholders to be engaged in the community.&nbs
 skills, and empower them to develop projects to serve the community needs.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/South_East_CDC_Logo.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/South_East_CDC_Logo.png">
 </div>
 <p></p>
