@@ -43,6 +43,6 @@ all with the goal of ensuring everyone can thrive and lead better lives
 in the North East.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/North_East_CDC.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/North_East_CDC.png">
 </div>
 <p></p>
