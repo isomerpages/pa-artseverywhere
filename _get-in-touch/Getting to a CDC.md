@@ -21,15 +21,15 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSCDC_Logo.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p>HDB Hub Bizthree
-<br>490 Lorong 6 Toa Payoh #07-11
+<td rowspan="1" colspan="1">
+<p>HDB Hub Biztree
+<br>490 Lorong 6 Toa Payoh
 <br>Singapore 310490
 <br>Tel: 67157500 Fax: 63709945
 <br>The Central Singapore district covers constituencies of:
 <br>Ang Mo Kio, Bishan-Toa Payoh, Jalan Besar, Kebun Baru, Marymount, Potong
 Pasir, Radin Mas, Tanjong Pagar and Yio Chu Kang.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
