@@ -20,7 +20,7 @@ sections:
           url: https://gmail.com
         - title: AE@CDC Programme Calender
           description: Find out more here...
-          url: ""
+          url: /programmes/cscdc/
   - infopic:
       title: AE@CDC
       subtitle: About the programme
