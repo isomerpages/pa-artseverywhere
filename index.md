@@ -17,7 +17,7 @@ sections:
           url: /programmes/cscdc/
         - title: our cdcs
           description: Find out more here...
-          url: https://gmail.com
+          url: /getting-to-a-cdc/
         - title: Other flagship programmes
           description: Find out more here...
           url: https://google.com
