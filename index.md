@@ -12,15 +12,15 @@ sections:
       button: Find out more
       url: /about/aecdc/
       key_highlights:
-        - title: Other flagship programmes
-          description: Find out more here...
-          url: https://google.com
-        - title: our cdcs
-          description: Find out more here...
-          url: https://gmail.com
         - title: AE@CDC Programme Calender
           description: Find out more here...
           url: /programmes/cscdc/
+        - title: our cdcs
+          description: Find out more here...
+          url: https://gmail.com
+        - title: Other flagship programmes
+          description: Find out more here...
+          url: https://google.com
   - infopic:
       title: AE@CDC
       subtitle: About the programme
