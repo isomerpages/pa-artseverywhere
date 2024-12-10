@@ -7,10 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ArtsEverywhere@CDC
       background: /images/resized_banner.jpg
-      button: Find out more
-      url: /about/aecdc/
       key_highlights:
         - title: Programme Calender
           description: ""
