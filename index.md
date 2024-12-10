@@ -2,7 +2,7 @@
 layout: homepage
 title: ArtsEverywhere@CDC
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/CDC_NAC_Logo.png
 permalink: /
 notification: ""
 sections:
