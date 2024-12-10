@@ -4,7 +4,7 @@ permalink: /featuredartists/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Our featured Artists</strong></h1>
+<h1><strong>Our Featured Artists</strong></h1>
 <p></p>
 <h3><strong>BRAHMASTRA ENSEMBLE</strong></h3>
 <div class="isomer-image-wrapper">
@@ -209,4 +209,4 @@ yIN Harmony in this flower origami workshop and learn to make your own
 bouquet of paper flowers.</p>
 <p><strong>(SEPTEMBER - DECEMBER)</strong>  <strong>Bird Flute Workshop</strong> Come
 learn how to play the bird flute in this workshop by yIN Harmony and then
-use your new found skills in the interactive segment of the performance.</p>
+use your new found skills in the interactive segment of the performance</p>
