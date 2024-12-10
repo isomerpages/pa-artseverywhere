@@ -8,18 +8,18 @@ notification: ""
 sections:
   - hero:
       title: ArtsEverywhere@CDC
-      background: /images/download.png
+      background: /images/resized_banner.jpg
       button: Find out more
       url: /about/aecdc/
       key_highlights:
-        - title: AE@CDC Programme Calender
-          description: Find out more here...
+        - title: Programme Calender
+          description: ""
           url: /programmes/cscdc/
-        - title: our cdcs
-          description: Find out more here...
+        - title: Featured Artists
+          description: ""
           url: /getting-to-a-cdc/
-        - title: Other flagship programmes
-          description: Find out more here...
+        - title: Gallery
+          description: ""
           url: https://google.com
   - infopic:
       title: AE@CDC
