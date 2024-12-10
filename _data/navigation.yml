@@ -1,23 +1,14 @@
 logo: /images/Merge_logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About AE@CDC
-    url: /about/aecdc/
+    collection: newsroom
   - title: Programme Line Up
     collection: programme-line-up
   - title: Featured artists
     url: /featuredartists/
-  - title: Newsroom
+  - title: Gallery
     url: /permalink
-    sublinks:
-      - title: News
-        url: /news/
-      - title: Media Releases
-        url: /media-releases-speeches/
-      - title: Speeches
-        url: /speeches/
-      - title: Gallery
-        url: /gallery/
+  - title: Contact Us
+    url: /contact-us/
   - title: CDC OFFICIAL SITE
     url: https://www.cdc.gov.sg/
