@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1w2b34fmw9fft.amplifyapp.com
 prod: https://master.d3kyailfp71trb.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/Merge_logo_3.png
+shareicon: /images/Merge_logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
