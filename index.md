@@ -28,10 +28,10 @@ sections:
       alt: Image alt text
       title: About the Programme
   - infopic:
-      title: Check out our event
+      title: Check it out
       id: infopic
-      description: Come & check out some photos of our ArtsEvertwhere at the various CDCS!
-      image: /images/456478048_921280256710472_6236439323403717153_n.jpg
+      description: Come check out some photos of our ArtsEvertwhere at the various CDCS!
+      image: /images/2024_0810___0075_jpg_compressed_copy.jpg
       alt: Image alt text
       url: /gallery/
       button: Find out more
