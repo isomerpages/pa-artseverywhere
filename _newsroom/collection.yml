@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Newsroom.md
-      - Speeches.md
       - News.md
