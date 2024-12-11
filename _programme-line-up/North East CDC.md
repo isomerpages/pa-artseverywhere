@@ -25,7 +25,8 @@ Ensembles
 </div>
 </details>
 <details class="isomer-details">
-<summary>January</summary>
+<summary><strong>January 2025</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
