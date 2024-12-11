@@ -30,7 +30,7 @@ sections:
   - infopic:
       title: Check out our event
       id: infopic
-      description: Come & check out some photos of our ArtsEvertwhere@CDC!
+      description: Come & check out some photos of our ArtsEvertwhere at the various CDCS!
       image: /images/456478048_921280256710472_6236439323403717153_n.jpg
       alt: Image alt text
       url: /gallery/
