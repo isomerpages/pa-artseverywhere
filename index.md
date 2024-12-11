@@ -28,12 +28,9 @@ sections:
       alt: Image alt text
       title: About the Programme
   - infopic:
-      title: The Five Districts
-      subtitle: our CDCS
+      title: Check out our event
       id: infopic
-      description: The CDCs work closely with grassroots, government, school,
-        community and corporate partners to support the unique needs of each
-        district.
-      image: /images/download__1_.png
+      description: Come & check out some photos of our ArtsEvertwhere@CDC!
+      image: /images/456478048_921280256710472_6236439323403717153_n.jpg
       alt: Image alt text
 ---
