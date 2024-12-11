@@ -33,4 +33,6 @@ sections:
       description: Come & check out some photos of our ArtsEvertwhere@CDC!
       image: /images/456478048_921280256710472_6236439323403717153_n.jpg
       alt: Image alt text
+      url: /gallery/
+      button: Find out more
 ---
