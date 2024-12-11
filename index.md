@@ -19,14 +19,14 @@ sections:
           description: ""
           url: https://google.com
   - infopic:
-      subtitle: About the programme
       id: infopic
       description: ArtsEverywhere@CDC brings arts experiences to communities where
         they live, work and play.
       button: FIND OUT MORE
       url: /about/aecdc/
-      image: /images/ArtsEverywhere.png
+      image: /images/download.png
       alt: Image alt text
+      title: About the Programme
   - infopic:
       title: The Five Districts
       subtitle: our CDCS
