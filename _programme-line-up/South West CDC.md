@@ -10,7 +10,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>December 2024 </strong>
+<summary><strong>December 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Large Scale Performances</strong>
