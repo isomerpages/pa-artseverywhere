@@ -17,14 +17,13 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Large Scale Performances</strong>
 </p>
-<p><strong><u>Saturday, 28 December</u></strong>
+<p><strong>Saturday, 28 December</strong>
 <br>Performing Artist: yIN Harmony
 <br>Venue: Heartbeat@Bedok
 <br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
 (11.30am - 12.30pm; 1.30 - 2.30pm)</p>
 <p></p>
-<p><strong> </strong>
-</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
