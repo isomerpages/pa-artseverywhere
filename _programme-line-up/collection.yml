@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CSCDC.md
-      - NWCDC.md
       - NECDC.md
-      - SWCDC.md
+      - NWCDC.md
       - SECDC.md
+      - SWCDC.md
