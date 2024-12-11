@@ -2,7 +2,7 @@ collections:
   programme-line-up:
     output: true
     order:
-      - CSCDC.md
+      - Central Singapore CDC.md
       - NECDC.md
       - NWCDC.md
       - SECDC.md
