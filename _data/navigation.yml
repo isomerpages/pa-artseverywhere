@@ -1,5 +1,7 @@
 logo: /images/20241210_164006.jpg
 links:
+  - title: About AE@CDC
+    collection: newsroom1
   - title: Programme Line Up
     collection: programme-line-up
   - title: Featured artists
@@ -10,5 +12,3 @@ links:
     url: /contact-us/
   - title: CDC OFFICIAL SITE
     url: https://www.cdc.gov.sg/
-  - title: About AE@CDC
-    collection: newsroom1
