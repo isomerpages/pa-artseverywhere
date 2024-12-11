@@ -2,7 +2,7 @@
 layout: homepage
 title: ArtsEverywhere@CDC
 description: An Isomer site of the Singapore Government
-image: /images/Merge_logo_3.png
+image: /images/Merge_logo.png
 permalink: /
 notification: ""
 sections:
