@@ -9,7 +9,8 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>December 2024</summary>
+<summary><strong>December 2024</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Large Scale performance</strong>
 </p>
@@ -25,7 +26,8 @@ Ensembles
 </div>
 </details>
 <details class="isomer-details">
-<summary>January 2025</summary>
+<summary><strong>January 2025</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
