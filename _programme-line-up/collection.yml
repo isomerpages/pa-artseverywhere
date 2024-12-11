@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Central Singapore CDC.md
-      - NECDC.md
+      - North East CDC.md
       - NWCDC.md
       - SECDC.md
       - SWCDC.md
