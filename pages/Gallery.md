@@ -37,3 +37,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG106.jpg">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_0810___0075_jpg_compressed_copy.jpg">
+</div>
+<p></p>
+<p></p>
