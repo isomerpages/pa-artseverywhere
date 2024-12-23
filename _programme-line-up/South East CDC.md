@@ -23,14 +23,19 @@ description: ""
 <br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
 (11.30am - 12.30pm; 1.30 - 2.30pm)</p>
 <p></p>
-<p></p>
+<p><strong>Street</strong>  <strong>Performances</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>January 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Large Scale Performances</strong>
+</p>
 <p></p>
+<p><strong>Street</strong>  <strong>Performances</strong>
+</p>
 </div>
 </details>
 </div>
