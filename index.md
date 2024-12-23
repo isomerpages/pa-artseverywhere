@@ -17,7 +17,7 @@ sections:
           url: /getting-to-a-cdc/
         - title: Gallery
           description: ""
-          url: https://google.com
+          url: /gallery/
   - infopic:
       id: infopic
       description: ArtsEverywhere@CDC brings arts experiences to communities where
