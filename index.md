@@ -14,7 +14,7 @@ sections:
           url: /programmes/cscdc/
         - title: Featured Artists
           description: ""
-          url: /getting-to-a-cdc/
+          url: /featuredartists/
         - title: Gallery
           description: ""
           url: /gallery/
