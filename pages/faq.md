@@ -11,5 +11,3 @@ variant: markdown
 	 
 	 
 2. Do you need to pay for tickets to attend the performances?
-    
-		
