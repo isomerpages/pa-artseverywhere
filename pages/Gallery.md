@@ -4,7 +4,6 @@ permalink: /gallery/
 variant: tiptap
 description: ""
 ---
-<h1>ARTSEVERYWHERE@CDC</h1>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
