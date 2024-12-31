@@ -2,7 +2,7 @@ collections:
   programme-line-up:
     output: true
     order:
-      - Central Singapore CDC.md
+      - Central CDC.md
       - North East CDC.md
       - North West CDC.md
       - South East CDC.md
