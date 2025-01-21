@@ -26,11 +26,16 @@ Ensembles
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>January 2025</strong>
+<summary><strong>February 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Large Scale performance</strong>
 </p>
+<p><strong>Saturday, 22 February</strong>
+</p>
+<p>Programme: Kito Dan Kita by Nadi Singapura
+<br>Venue: Heartbeat@Bedok
+<br>Time: Performance (11am - 2pm)</p>
 <p></p>
 <p><strong>Street Performances</strong>
 </p>
