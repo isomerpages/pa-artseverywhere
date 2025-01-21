@@ -41,6 +41,18 @@ Ensembles
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>March 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Large Scale performance</strong>
+</p>
+<p></p>
+<p></p>
+<p><strong>Street Performances</strong>
+</p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
